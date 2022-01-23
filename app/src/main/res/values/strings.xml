@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TMDB Mobile</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_popular">Popular Movies</string>
+    <string name="title_upcoming">Upcoming Movies</string>
+    <string name="title_contentDescription">Movie Poster</string>
+    <string name="label_viewall">View all</string>
+    <string name="label_synopsis">Plot Summary</string>
+    <string name="label_pleasewait">Please Wait</string>
+    <string name="no_movie">No Movie</string>
+    <string name="toprated">Top-Rated Movies</string>
+    <string name="popular">Popular Movies</string>
+    <string name="upcoming">Upcoming Movies</string>
+    <string name="showall">Show All</string>
+</resources>

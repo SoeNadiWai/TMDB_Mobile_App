@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Digital Fusion/FusionClient 4.5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Digital Fusion/FusionLink 3.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Digital Fusion/FusionPOS 12.4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Digital Fusion/FusionPetro 2.3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Digital Fusion/RSMobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Digital Fusion/WaiterRS 1.6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Group1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Personal Projects/GetGo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Personal Projects/TMDBMobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Study Projects/RxJava3-Android-Examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Study Projects/architecture-components-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Study Projects/sunflower" vcs="Git" />
+  </component>
+</project>
