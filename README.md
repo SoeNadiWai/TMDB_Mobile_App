@@ -29,6 +29,12 @@ Movie Browsing Application
 <img src="https://github.com/user-attachments/assets/eb558c5b-2184-4e32-acb7-84da0933b35c" alt="Results Screen" style="width: 20%;"/>
 </div>
 
+## Language and Framework
+- Java
+- MVM
+- RoomDatabase
+- The Movie Database (TMDB) API
+
 ## Installation
 
 Step-by-step guide on how to install and set up the project.
