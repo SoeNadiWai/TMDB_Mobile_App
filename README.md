@@ -31,7 +31,7 @@ Movie Browsing Application
 
 ## Language and Framework
 - Java
-- MVM
+- MVC
 - RoomDatabase
 - The Movie Database (TMDB) API
 
